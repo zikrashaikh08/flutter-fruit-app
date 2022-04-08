@@ -25,7 +25,7 @@ class _SplashScreenState extends State<SplashScreen> {
       body: Container(
         child: Center(
             child: Text(
-          "Grocery App",
+          "Fruit App",
           style: GoogleFonts.poppins(fontSize: 30),
         )),
       ),
